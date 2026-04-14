@@ -70,7 +70,7 @@ A responsive task management web app that allows users to:
 HTML • CSS • JavaScript • Local Storage • Responsive UI
 
 🔗 Add repo link here  
-https://github.com/soumi-saha12/task-manager
+https://github.com/soumi-saha12/Todify
 
 ---
 
