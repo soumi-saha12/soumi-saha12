@@ -7,7 +7,7 @@
   <img src="./assets/sticker.png" width="140" align="right"/>
 </p>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 # 🌸 Hi, I'm Soumi Saha 👩🏻‍💻
 
