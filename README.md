@@ -1,13 +1,13 @@
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Soumi%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-  
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=false&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Hackathon+Finalist;Cybersecurity+Minor;Future+AI+Engineer"/>
-
+</p>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Hackathon+Finalist;Cybersecurity+Minor;Future+AI+Engineer"/>
   <img src="./assets/sticker.png" width="140" align="right"/>
 </p>
+
+<br/><br/>
 
 # 🌸 Hi, I'm Soumi Saha 👩🏻‍💻
 
