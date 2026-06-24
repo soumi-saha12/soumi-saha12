@@ -2,23 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Soumi%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center;">
   
-  <!-- LEFT: TEXT -->
-  <div align="left">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=false&vCenter=true&width=520&lines=AI+%26+ML+Enthusiast;Hackathon+Finalist;Cybersecurity+Minor;Future+AI+Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=false&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+🧠;Hackathon+Finalist+🏆;Cybersecurity+Minor+🔐;Future+AI+Engineer+🚀"/>
-
-  </div>
-
-  <!-- RIGHT: STICKER -->
-  <div align="right">
-    <img src=".assets/sticker.png" width="160"/>
-  </div>
-
-</div>
-
----
+  <img src="./assets/sticker.png" width="140" align="right"/>
+</p>
 
 # 🌸 Hi, I'm Soumi Saha 👩🏻‍💻
 
@@ -74,7 +63,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/soumi-saha12/cloud_anomaly_detection_system">
-<img src="https://your-image-link.com/cloud-dashboard.png" width="100%" alt="Cloud Anomaly Detection System"/>
+<img src="assets/cloud-anomaly.png" width="100%" alt="Cloud Anomaly Detection System"/>
 </a>
 
 ### ☁️ Cloud Anomaly Detection System
@@ -91,7 +80,7 @@ React • Vite • Tailwind • FastAPI • Python • Scikit-learn
 <td width="50%" valign="top">
 
 <a href="https://github.com/soumi-saha12/Todify">
-<img src="https://your-image-link.com/todify.png" width="100%" alt="Todify"/>
+<img src="assets/todify.png" width="100%" alt="Todify"/>
 </a>
 
 ### ✅ Todify
@@ -110,7 +99,7 @@ HTML • CSS • JavaScript
 <td width="50%" valign="top">
 
 <a href="https://edutrack-sd.netlify.app">
-<img src="https://your-image-link.com/edutrack.png" width="100%" alt="EduTrack"/>
+<img src="assets/edutrack.png" width="100%" alt="EduTrack"/>
 </a>
 
 ### 📊 EduTrack
@@ -125,7 +114,7 @@ HTML • CSS • JavaScript
 <td width="50%" valign="top">
 
 <a href="https://weatheringboard.netlify.app">
-<img src="https://your-image-link.com/weather-dashboard.png" width="100%" alt="Weather Dashboard"/>
+<img src="assets/weather-dashboard.png" width="100%" alt="Weather Dashboard"/>
 </a>
 
 ### 🌤️ Weather Dashboard
@@ -220,41 +209,6 @@ Completed certifications in <b>Cybersecurity, Machine Learning, and AI Ethics</b
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumi-saha12/soumi-saha12/output/github-snake-pink.svg" alt="snake" />
 </p>
-
-<details>
-<summary>⚙️ Click to set up the snake (one time only)</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: soumi-saha12
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-pink.svg?color_snake=FF69B4&color_dots=#ffc0cb,#ffb6c1,#ff69b4,#ff1493,#c71585
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Generate Snake → Run workflow** ✅
-
-</details>
 
 ---
 
