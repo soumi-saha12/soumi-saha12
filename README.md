@@ -2,14 +2,21 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Soumi%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Hackathon+Finalist+%F0%9F%8F%86;Cybersecurity+Minor+%F0%9F%94%90;Future+AI+Engineer+%F0%9F%9A%80"/>
-</p>
-<!-- STICKER -->
-<p align="center">
-  <img src="./assets/sticker.png" width="180"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <!-- LEFT: TEXT -->
+  <div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=false&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+🧠;Hackathon+Finalist+🏆;Cybersecurity+Minor+🔐;Future+AI+Engineer+🚀"/>
+
+  </div>
+
+  <!-- RIGHT: STICKER -->
+  <div align="right">
+    <img src="./sticker.png" width="160"/>
+  </div>
+
+</div>
 
 ---
 
