@@ -60,41 +60,126 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-| 🌸 Project | 💡 Description | 🛠️ Stack | 🔗 Link |
-|:-----------|:--------------|:---------|:--------|
-| ☁️ **Cloud Anomaly Detection System** | ML-powered SOC dashboard for cloud infrastructure anomaly detection, health metrics & intelligent alerts | React · Vite · FastAPI · Tailwind · Python ML | [Repo](https://github.com/soumi-saha12/cloud_anomaly_detection_system) |
-| 📊 **EduTrack** | Student management dashboard — grade tracking, CSV export, toast notifications & search | HTML · CSS · JS | [Live](https://edutrack-sd.netlify.app) |
-| 🌤️ **Weather Dashboard** | Glassmorphism weather app with geolocation, dynamic backgrounds, pinned cities & unit toggle | HTML · CSS · JS · Netlify Functions | [Live](https://weatheringboard.netlify.app) |
-| 🖼️ **Image Gallery** | CSS grid gallery with lightbox, category filters, Favourites & touch swipe | HTML · CSS · JS | [Live](https://gallery-grid.netlify.app) |
-| ✅ **Todify** | Task manager with priority levels, journal mode & elegant UI for students & writers | HTML · CSS · JS | [Repo](https://github.com/soumi-saha12/Todify) |
-| 🌐 **Portfolio** | Personal portfolio with typewriter hero, glassmorphism nav & scroll reveal animations | HTML · CSS · JS | [Live](https://soumi-saha.netlify.app) |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/soumi-saha12/cloud_anomaly_detection_system">
+<img src="https://your-image-link.com/cloud-dashboard.png" width="100%" alt="Cloud Anomaly Detection System"/>
+</a>
+
+### ☁️ Cloud Anomaly Detection System
+
+ML-powered cloud monitoring platform that detects infrastructure anomalies, analyzes system health metrics, and generates intelligent alerts for proactive incident response.
+
+**Tech Stack:**
+React • Vite • Tailwind • FastAPI • Python • Scikit-learn
+
+⭐ Featured Project
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/soumi-saha12/Todify">
+<img src="https://your-image-link.com/todify.png" width="100%" alt="Todify"/>
+</a>
+
+### ✅ Todify
+
+Task management application with priority levels, journal mode, productivity tracking, and an elegant user experience.
+
+**Tech Stack:**
+HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://edutrack-sd.netlify.app">
+<img src="https://your-image-link.com/edutrack.png" width="100%" alt="EduTrack"/>
+</a>
+
+### 📊 EduTrack
+
+Student management dashboard featuring grade tracking, search, CSV export, and responsive design.
+
+**Tech Stack:**
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://weatheringboard.netlify.app">
+<img src="https://your-image-link.com/weather-dashboard.png" width="100%" alt="Weather Dashboard"/>
+</a>
+
+### 🌤️ Weather Dashboard
+
+Modern weather application with geolocation, dynamic backgrounds, pinned cities, and temperature conversion.
+
+**Tech Stack:**
+HTML • CSS • JavaScript • Netlify Functions
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
 <table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🥇_Top_11_%2F_350-IEEE_DoubleSlash_4.0-ffc0cb?style=for-the-badge"/>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🥉_2nd_Runner--Up-HackSnippet_4.0-ffb6c1?style=for-the-badge"/>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🚀_Pre--Finalist-Smart_India_Hackathon_2025-ffd1dc?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🎓_Elite-NPTEL_Certification-ffe4e1?style=for-the-badge"/>
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/📜_IBM_SkillsBuild-Cybersecurity_%7C_ML_%7C_AI_Ethics-ffc0cb?style=for-the-badge"/>
-    </td>
-  </tr>
+
+<tr>
+<td width="60" align="center">🥇</td>
+<td>
+<b>IEEE DoubleSlash 4.0</b><br>
+Ranked <b>Top 11 out of 350+ teams</b> in a national-level hackathon focused on innovation and technology solutions.
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">🥉</td>
+<td>
+<b>HackSnippet 4.0</b><br>
+Secured <b>2nd Runner-Up</b> position for developing an innovative software solution under competitive hackathon conditions.
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">🚀</td>
+<td>
+<b>Smart India Hackathon 2025</b><br>
+Selected as a <b>Pre-Finalist</b> among thousands of participating teams nationwide.
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">🎓</td>
+<td>
+<b>NPTEL Certification</b><br>
+Awarded <b>Elite + Silver </b> certification for academic excellence and successful completion of coursework.
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">📜</td>
+<td>
+<b>IBM SkillsBuild</b><br>
+Completed certifications in <b>Cybersecurity, Machine Learning, and AI Ethics</b>.
+</td>
+</tr>
+
 </table>
 
 ---
