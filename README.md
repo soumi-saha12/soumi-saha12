@@ -1,16 +1,15 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER with sticker baked in -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Soumi%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING INTRO — untouched from original -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Hackathon+Finalist+%F0%9F%8F%86;Cybersecurity+Minor+%F0%9F%94%90;Future+AI+Engineer+%F0%9F%9A%80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 </p>
 
-<!-- STICKER: female in tech, right below typing -->
+<!-- TYPING INTRO — only plain text lines, no emoji in URL -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Hackathon+Finalist;Cybersecurity+Minor;Future+AI+Engineer"/>
 </p>
 
 ---
@@ -76,30 +75,51 @@
 
 # 🏆 Achievements
 
-🥇 Top 11 / 350 Teams — IEEE DoubleSlash 4.0  
-🥉 2nd Runner-Up — HackSnippet 4.0  
-🚀 Pre-Finalist — Smart India Hackathon 2025  
-🎓 NPTEL Elite Certification  
-📜 IBM SkillsBuild Certifications (Cybersecurity • ML • AI Ethics)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🥇_Top_11_%2F_350-IEEE_DoubleSlash_4.0-ffc0cb?style=for-the-badge"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🥉_2nd_Runner--Up-HackSnippet_4.0-ffb6c1?style=for-the-badge"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🚀_Pre--Finalist-Smart_India_Hackathon_2025-ffd1dc?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎓_Elite-NPTEL_Certification-ffe4e1?style=for-the-badge"/>
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/📜_IBM_SkillsBuild-Cybersecurity_%7C_ML_%7C_AI_Ethics-ffc0cb?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 💼 Experience
 
-### 🌐 Web Development Intern — Rinex
-
-Worked on frontend implementation and practical web deployment projects.
+<table>
+  <tr>
+    <td width="60" align="center">
+      <img src="https://img.shields.io/badge/🌐-ffb6c1?style=for-the-badge" width="50"/>
+    </td>
+    <td>
+      <strong>Web Development Intern — Beeskilled</strong><br/>
+      Built and deployed real-world web projects — student dashboards, weather apps, interactive galleries & portfolios — all shipped to production on Netlify.
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumi-saha12&show_icons=true&theme=rose_pine"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumi-saha12&theme=rose_pine"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soumi-saha12&show_icons=true&theme=rose_pine&hide_rank=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=soumi-saha12&theme=rose_pine"/>
 </p>
 
 ---
@@ -107,13 +127,13 @@ Worked on frontend implementation and practical web deployment projects.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soumi-saha12/soumi-saha12/output/github-snake-pink.svg" alt="pink snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/soumi-saha12/soumi-saha12/output/github-snake-pink.svg" alt="snake" />
 </p>
 
-> ⚙️ To activate the snakes, create `.github/workflows/snake.yml` in your profile repo with the content below, then go to **Actions → Run workflow** manually once:
-
 <details>
-<summary>📋 Click to copy the GitHub Actions workflow</summary>
+<summary>⚙️ Click to set up the snake (one time only)</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake
@@ -132,7 +152,6 @@ jobs:
           github_user_name: soumi-saha12
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-pink.svg?color_snake=FF69B4&color_dots=#ffc0cb,#ffb6c1,#ff69b4,#ff1493,#c71585
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -142,6 +161,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+Then go to **Actions tab → Generate Snake → Run workflow** ✅
+
 </details>
 
 ---
@@ -149,7 +170,7 @@ jobs:
 # 🌷 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumi-saha12&theme=rose_pine"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumi-saha12&theme=rose_pine"/>
 </p>
 
 ---
@@ -187,5 +208,5 @@ jobs:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
 </p>
