@@ -1,15 +1,14 @@
-<!-- HEADER BANNER with sticker baked in -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Soumi%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Hackathon+Finalist+%F0%9F%8F%86;Cybersecurity+Minor+%F0%9F%94%90;Future+AI+Engineer+%F0%9F%9A%80"/>
 </p>
-
-<!-- TYPING INTRO — only plain text lines, no emoji in URL -->
+<!-- STICKER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Hackathon+Finalist;Cybersecurity+Minor;Future+AI+Engineer"/>
+  <img src="./sticker.png" width="180"/>
 </p>
 
 ---
