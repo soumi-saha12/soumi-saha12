@@ -11,8 +11,10 @@
 
 # 🌸 Hi, I'm Soumi Saha 👩🏻‍💻
 
-🎓 **CSE (AI & ML) Student — Institute of Engineering & Management, Kolkata**  
+🎓 **CSE (AI & ML) Student — Institute of Engineering & Management, Kolkata** 
+
 🔐 Minor in **Cybersecurity**  
+
 🚀 Passionate about **AI • ML • DSA • Building real-world products**
 
 ---
