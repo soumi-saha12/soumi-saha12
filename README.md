@@ -8,7 +8,7 @@
 </p>
 <!-- STICKER -->
 <p align="center">
-  <img src="./sticker.png" width="180"/>
+  <img src="./assets/sticker.png" width="180"/>
 </p>
 
 ---
