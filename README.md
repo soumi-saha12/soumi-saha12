@@ -13,7 +13,7 @@
 
   <!-- RIGHT: STICKER -->
   <div align="right">
-    <img src="./sticker.png" width="160"/>
+    <img src=".assets/sticker.png" width="160"/>
   </div>
 
 </div>
